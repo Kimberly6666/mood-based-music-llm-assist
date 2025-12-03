@@ -1,0 +1,8 @@
+.DS_Store
+
+# data
+data/
+
+# env
+music_llm_assist/
+requirements.txt
